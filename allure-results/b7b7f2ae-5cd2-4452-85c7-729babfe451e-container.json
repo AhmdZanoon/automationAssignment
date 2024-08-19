@@ -1,0 +1,1 @@
+{"uuid":"b7b7f2ae-5cd2-4452-85c7-729babfe451e","name":"apiTests.SimpleBooksApiTest","children":["83a96e93-e4b5-4d7e-973a-dd0f6c2b0418"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724020345356,"stop":1724020346058}],"afters":[],"start":1724020345304,"stop":1724020348999}
